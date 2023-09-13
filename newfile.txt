@@ -1,2 +1,4 @@
 jurgen shehu
 is learning git commands
+
+just sent the file to local repository
